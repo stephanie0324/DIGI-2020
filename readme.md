@@ -1,8 +1,9 @@
-## 0716 - class 
+## Lecture1 - 0716
 [lecture_1 note]( https://stephanie0324.github.io/DIGI-2020/Lecture1/digi_0717.html)
 
-## 0730 - class
+## Lecture2 - 0730  
 [lecture_2_note](https://stephanie0324.github.io/DIGI-2020/Lecture2/digi_0730class.html)
 
-## 0803 - class
-學習 perl
+## Lecture3 - Week 1 
+### 0803 - 學習 perl
+### 0804 - 
