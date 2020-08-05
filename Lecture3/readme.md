@@ -31,4 +31,4 @@
  ```
  
  * shift / pop / unshift / unpop
- 
+ ![image](https://github.com/stephanie0324/DIGI-2020/blob/master/Lecture3/截圖%202020-08-05%20下午11.14.58.png)
