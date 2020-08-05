@@ -31,11 +31,11 @@
  ```
  
  * shift / pop / unshift / unpop
- ![image](https://github.com/stephanie0324/DIGI-2020/blob/master/Lecture3/截圖%202020-08-05%20下午11.14.58.png)
+ ![image](https://github.com/stephanie0324/DIGI-2020/blob/master/Lecture3/截圖%202020-08-05%20下午11.14.58.png)  
  
  * string
-  * join : array -> string
-  * split : string -> array
+   * join : array -> string
+   * split : string -> array  
  ```
  @list = qw(1 2 3 4); #qw 代表用空格來分隔元素
  
