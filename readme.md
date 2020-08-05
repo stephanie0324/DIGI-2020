@@ -7,4 +7,7 @@
 ## Lecture3 - Week 1 
 0803 - [try.pl](https://github.com/stephanie0324/DIGI-2020/blob/master/Lecture3/try.pl) (學習 perl)  
 0804 - [0804_perl.pl](https://github.com/stephanie0324/DIGI-2020/blob/master/Lecture3/0804_perl.pl) (more perl)  
+0805 - [0805_perl.pl](https://github.com/stephanie0324/DIGI-2020/blob/master/Lecture3/0805_perl.pl) (more perl)  
+
+## Lecture 4 - Week 2
 
