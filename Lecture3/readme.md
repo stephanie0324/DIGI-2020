@@ -87,17 +87,17 @@
    * \d matches digits [0-9]
    * \D matches non digits
 
-  ```
-  $x = "cat dog house";
-  while($x =~ /(\w+)/g)           # \w 就是 a-z \W 就是non word characters
-  {                               # \w{0,1,2,.....} 可以取字串的長度
-    print "Word is $1 , ends at position" , pos $x , "\n";
-  }
+   ```
+   $x = "cat dog house";
+   while($x =~ /(\w+)/g)           # \w 就是 a-z \W 就是non word characters
+   {                               # \w{0,1,2,.....} 可以取字串的長度
+     print "Word is $1 , ends at position" , pos $x , "\n";
+   }
 
-  $x = "Calvin and Hobbes";
-  @word = split / \s+ /, $x;  #\s+ 表示找不只一個空白格，直到不是空白格為止  
-  # $word[0] = 'Calvin'
-  # $word[1] = 'and'
-  # $word[2] = 'Hobbes'
+   $x = "Calvin and Hobbes";
+   @word = split / \s+ /, $x;  #\s+ 表示找不只一個空白格，直到不是空白格為止  
+   # $word[0] = 'Calvin'
+   # $word[1] = 'and'
+   # $word[2] = 'Hobbes'
 
-  ```
+   ```
