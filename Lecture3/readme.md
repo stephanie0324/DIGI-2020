@@ -30,9 +30,12 @@
  $string = <STDIN>
  ```
  
- * shift / pop / unshift / unpop
- ![image](https://github.com/stephanie0324/DIGI-2020/blob/master/Lecture3/截圖%202020-08-05%20下午11.14.58.png)  
- 
+ * shift / pop / unshift / push
+   * shift : 從前面取出
+   * pop : 從後面取出
+   * shift : 從前面放入
+   * shift : 從後面放入
+  
  * string
    * join : array -> string
    * split : string -> array  
