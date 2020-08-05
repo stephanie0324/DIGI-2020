@@ -26,9 +26,9 @@
   ```
   
   * input 
- ```
- $string = <STDIN>
- ```
+  ```
+  $string = <STDIN>
+  ```
  
  * shift / pop / unshift / push
    * shift : 從前面取出
@@ -39,13 +39,13 @@
  * string
    * join : array -> string
    * split : string -> array  
- ```
- @list = qw(1 2 3 4); #qw 代表用空格來分隔元素
+   ```
+   @list = qw(1 2 3 4); #qw 代表用空格來分隔元素
  
- $str = join(' ' , @arr);
+   $str = join(' ' , @arr);
  
- @arr = split('',$str);
- ```
+   @arr = split('',$str);
+   ```
  
  * file handle
  ```
