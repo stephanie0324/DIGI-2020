@@ -54,10 +54,21 @@
  * hash
  ```
  %h = (k1 =>"1" ,k1 =>"1",k2 =>"b" , k3 => "3" );  # hash initialization
+ 
+ $h ->{k1} ->{"1"} = "human";
+ $h ->{k1} ->{"2"} = "mouse";
+ $h ->{k2} ->{"B"} = "Rice";
  ```
+ 1.
  key|value
  :-:|:-:
  k1|1
  k2|b
  k3|3
+ 2.
+ key|key|value
+ :-:|:-:|:-:
+ k1|1|human
+ k1|2|mouse
+ k2|B|Rice
  
