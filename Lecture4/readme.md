@@ -33,6 +33,9 @@
       * user : 最前面
       * group :中間
       * other : 其他人
-    * cat / nl : print the data
+    * cat : print the data
     * tac : print the data in reverse
     * -n "n" : 將檔案的前 "n" 行印出來
+    * nl : print line numbers before data
+    * wc : print a count of
+
