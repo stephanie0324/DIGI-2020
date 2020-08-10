@@ -37,5 +37,5 @@
     * tac : print the data in reverse
     * -n "n" : 將檔案的前 "n" 行印出來
     * nl : print line numbers before data
-    * wc : print a count of
+    * wc : print a count of lines , words , and characters.
 
