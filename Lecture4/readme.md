@@ -44,10 +44,11 @@
       * -m : count characters
       * -w : count words
 * Piping and Redirection
- * STDIN(0) : 標準輸入
- * STDOUT(1) : 標準輸出
- * STDERROR(2) : 標準錯誤輸出
+  * STDIN(0) : 標準輸入
+  * STDOUT(1) : 標準輸出
+  * STDERROR(2) : 標準錯誤輸出
 * Process Management
- * ps : get a listing of processes running on the system
- * kill : end the running process
+  * ps : get a listing of processes running on the system
+  * kill : end the running process
+  * sleep + num : 暫停工作 num 秒鐘
  
