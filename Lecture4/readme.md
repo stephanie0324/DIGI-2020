@@ -1,6 +1,7 @@
 ## Linux 筆記
 * The command line  
 **ALL COMMAND NO UNDO**
+  * q : 中斷指令 , canceling now process
   * ls man : show all the command
   * ls[options][location] : to see the files under this location  
   (用中括號的部份可填可不填)
@@ -38,6 +39,12 @@
     * -n "n" : 將檔案的前 "n" 行印出來
     * nl : print line numbers before data
     * wc : print a count of lines , words , and characters.
-      * -c  count bytes
-      * -l  count lines
-
+      * -c : count bytes
+      * -l : count lines
+      * -m : count characters
+      * -w : count words
+* Piping and Redirection
+* Process Management
+ * ps : get a listing of processes running on the system
+ * kill : end the running process
+ 
