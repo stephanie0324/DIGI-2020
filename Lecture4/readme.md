@@ -33,4 +33,6 @@
       * user : 最前面
       * group :中間
       * other : 其他人
+    * cat : print the data
+    * tac : print the data in reverse
   
