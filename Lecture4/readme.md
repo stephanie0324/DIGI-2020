@@ -5,7 +5,7 @@
   * ls[options][location] : to see the files under this location  
   (用中括號的部份可填可不填)
   * pwd : print working directory  
-  * $SHELL : print shell  
+  * echo $SHELL : echo(回傳) shell  
   * -a  
     * ' ? ' 指定幾個字
     * ' * ' 不確定字數
