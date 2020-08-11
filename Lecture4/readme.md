@@ -66,6 +66,10 @@
      * :set nonu : 取消行數
      * :wq  : save and exit
      * :q! : regard the changes
-*
+* cut & sort 
+  * cut[-options][path]
+    * -f :  指定某一欄
+    * -d : 以該符號做分割 （可用 空格、逗號 、或是字母都可以)
+  * sort[-options][path]
   
 
