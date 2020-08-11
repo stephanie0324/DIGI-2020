@@ -71,5 +71,8 @@
     * -f :  指定某一欄
     * -d : 以該符號做分割 （可用 空格、逗號 、或是字母都可以)
   * sort[-options][path]
-  
+ 
+ * sed : sed s/orange/banana/g file : 將 orange 改為banana，但是不會改到原本的file
+   ( 加上 >file 才會更改到原始檔案)
+   
 
