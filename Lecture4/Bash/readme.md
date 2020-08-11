@@ -7,5 +7,5 @@
   * $* - all of th command line
  
 ## Files
-* [print_ls.sh](https://stephanie0324.github.io/DIGI-2020/blob/master/Lecture4/Bash/print_ls.sh)
+* [print_ls.sh](https://github.com/stephanie0324/DIGI-2020/blob/master/Lecture4/Bash/print_ls.sh)
 * variable.sh
