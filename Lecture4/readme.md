@@ -57,6 +57,6 @@
 
 * vi - first file
   * Esc
-  * i : insert 
+  * i : insert to edit before 
   * a : 
 
