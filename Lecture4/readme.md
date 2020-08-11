@@ -76,7 +76,7 @@
  * sed & uniq
    * sed s/orange/banana/g file : 將 orange 改為banana，但是不會改到原本的file
    ( 加上 >file 才會更改到原始檔案)
-   * uniq[options][path]
+   * uniq[options][path] : 刪除不同行且連續的相同字串，劃為同一行字串，如果中間有夾其他字串則不會刪去。
  
    
 
