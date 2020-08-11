@@ -80,6 +80,10 @@
  
  * grep
    * egrep[command line option]<pattern>[path] : 秀出所有找到的資料
+   ```
+   egrep '[aeiou]{2,}' : 連再一起出現的aeiou 就會出現
+   egrep '2.' : 出現2或是 2 連接某個東西就會找到
+   ```
  * grep
       * -n :  秀出所有找到的資料並加上行數。
       * -c :  秀出找到資料的行數
