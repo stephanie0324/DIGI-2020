@@ -78,5 +78,8 @@
    ( 加上 >file 才會更改到原始檔案)
    * uniq[options][path] : 刪除不同行且連續的相同字串，劃為同一行字串，如果中間有夾其他字串則不會刪去。
  
-   
+ * grep
+   * egrep[command line option]<pattern>[path] : 秀出所有找到的資料
+ * grep
+      * -n :  
 
