@@ -81,5 +81,6 @@
  * grep
    * egrep[command line option]<pattern>[path] : 秀出所有找到的資料
  * grep
-      * -n :  
+      * -n :  秀出所有找到的資料並加上行數。
+      * -c :  秀出找到資料的行數
 
