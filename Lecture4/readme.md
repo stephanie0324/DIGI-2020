@@ -66,6 +66,7 @@
      * :set nonu : 取消行數
      * :wq  : save and exit
      * :q! : regard the changes
+     * yyp : 複製一整行並貼上
 * cut & sort 
   * cut[-options][path]
     * -f :  指定某一欄
@@ -74,5 +75,6 @@
  
  * sed : sed s/orange/banana/g file : 將 orange 改為banana，但是不會改到原本的file
    ( 加上 >file 才會更改到原始檔案)
+ 
    
 
