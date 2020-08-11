@@ -55,4 +55,8 @@
   * history : 顯示出所有執行過的指令
   * grep "str" + filename : 在 filename 當中找 str 若有就會印出來，沒有則不會印出任何東西
 
-* v 
+* vi - first file
+  * Esc
+  * i : insert 
+  * a : 
+
