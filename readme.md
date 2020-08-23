@@ -15,3 +15,5 @@ readme - [readme.md](https://github.com/stephanie0324/DIGI-2020/blob/master/Lect
 [readme](https://github.com/stephanie0324/DIGI-2020/blob/master/Lecture4/readme.md)
 
 ## Lecture 5 - Week 3
+
+[readme](https://github.com/stephanie0324/DIGI-2020/blob/master/Lecture5/readme.md)
