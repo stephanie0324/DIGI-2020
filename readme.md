@@ -1,5 +1,5 @@
-----
-##參考資料集
+
+## 參考資料集
 [bwa](http://bio-bwa.sourceforge.net/bwa.shtml)
 
 ---
