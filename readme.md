@@ -26,3 +26,7 @@ readme - [readme.md](https://github.com/stephanie0324/DIGI-2020/blob/master/Lect
 ## Lecture 5 - Week 3
 
 [readme](https://github.com/stephanie0324/DIGI-2020/blob/master/Lecture5/readme.md)
+
+## Lecture 6 - Week 4
+
+[NGS-hands_on](https://hackmd.io/sGKQwCpCQXWtjVvy3f4uxQ?both)
